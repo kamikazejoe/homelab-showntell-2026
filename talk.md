@@ -1,6 +1,5 @@
 % Secret Lair Lab  
 % Joseph Cathell [kamikazejoe@gmail.com](mailto:kamikazejoe@gmail.com)  
-% Talk: [${TALK_URL}](${TALK_URL})<br/>Repo: [${REPO_URL}](${REPO_URL})
 
 ## Secret Lair Lab
 
@@ -183,5 +182,21 @@ Turns out I have multiple drive failures across my nodes
 I gambled with some refurbished white lable drives, figuring the redundancy would save me
 Alas, it did not.
 Forunately I have my ansible playbooks archived
+
+:::
+
+## To-do List
+
+- Rebuild, obviously
+- Dashboards and Monitoring
+- More Self-Hosted Apps
+
+::: notes
+
+:::
+
+## Questions or Comments?
+
+::: notes
 
 :::
