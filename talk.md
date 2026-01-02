@@ -1,9 +1,8 @@
 % Secret Lair Lab  
 % Joseph Cathell [kamikazejoe@gmail.com](mailto:kamikazejoe@gmail.com)  
-Talk: \[${TALK_URL}](${TALK_URL})  
-Repo: \[${REPO_URL}](${REPO_URL})
+% Talk: [${TALK_URL}](${TALK_URL})<br/>Repo: [${REPO_URL}](${REPO_URL})
 
-# Secret Lair Lab
+## Secret Lair Lab
 
 <img src="static/signal-2025-10-11-111157.jpeg" alt="signal-2025-10-11-111157.jpeg" width="547" height="729" class="jop-noMdConv">
 
@@ -11,7 +10,7 @@ Repo: \[${REPO_URL}](${REPO_URL})
 
 :::
 
-# Network Map
+## Network Map
 
 <img src="static/d00e6949d9a71e82bb88e5b7f43d548c.png" alt="d00e6949d9a71e82bb88e5b7f43d548c.png" width="851" height="486" class="jop-noMdConv">
 
@@ -19,7 +18,7 @@ Repo: \[${REPO_URL}](${REPO_URL})
 
 :::
 
-# Hardware Rundown
+## Hardware Rundown
 
 ::: notes
 
@@ -110,7 +109,7 @@ And if you know Ben West, you follow his recommendation for anything WiFi
 
 :::
 
-# Building
+## Building
 
 - All VMs deployed with Ansible
 - Combination of iDRAC and PiKVMs to manage
@@ -126,7 +125,7 @@ Unfortunately I don't have those playbooks here to share today.
 
 :::
 
-# Highlights
+## Highlights
 
 ## The LED Bar
 
@@ -173,7 +172,7 @@ Controlled with Home Assistant and  ESPHome.
 
 :::
 
-# Until...
+## Until...
 
 <img src="static/image-2025-12-28-202622.png" alt="image-2025-12-28-202622.png" width="358" height="548" class="jop-noMdConv">
 
