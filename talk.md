@@ -190,8 +190,18 @@ Forunately I have my ansible playbooks archived
 - Rebuild, obviously
 - Dashboards and Monitoring
 - More Self-Hosted Apps
+- Play with Werid Out-Of-Band comms
 
 ::: notes
+
+Obviously, replace the RAID drives and rebuild
+Need more monitoring, taking tips form Blueteaming on a Budget
+Add all the self-hosted apps
+Integrate weird comms.
+- Some packet radio
+- Meshtastic
+- Do more with MQTT
+- Maybe some pirate broadcast television
 
 :::
 
