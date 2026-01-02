@@ -5,7 +5,7 @@ Repo: \[${REPO_URL}](${REPO_URL})
 
 # Secret Lair Lab
 
-<img src="../../_resources/signal-2025-10-11-111157.jpeg" alt="signal-2025-10-11-111157.jpeg" width="547" height="729" class="jop-noMdConv">
+<img src="static/signal-2025-10-11-111157.jpeg" alt="signal-2025-10-11-111157.jpeg" width="547" height="729" class="jop-noMdConv">
 
 ::: notes
 
@@ -13,7 +13,7 @@ Repo: \[${REPO_URL}](${REPO_URL})
 
 # Network Map
 
-<img src="../../_resources/d00e6949d9a71e82bb88e5b7f43d548c.png" alt="d00e6949d9a71e82bb88e5b7f43d548c.png" width="851" height="486" class="jop-noMdConv">
+<img src="static/d00e6949d9a71e82bb88e5b7f43d548c.png" alt="d00e6949d9a71e82bb88e5b7f43d548c.png" width="851" height="486" class="jop-noMdConv">
 
 ::: notes
 
@@ -130,7 +130,7 @@ Unfortunately I don't have those playbooks here to share today.
 
 ## The LED Bar
 
-![408722864fc3c59c81d5d9448c2f3fec.png](../../_resources/408722864fc3c59c81d5d9448c2f3fec.png)
+![408722864fc3c59c81d5d9448c2f3fec.png](static/408722864fc3c59c81d5d9448c2f3fec.png)
 
 ::: notes
 
@@ -144,7 +144,7 @@ As well as status messages sent by ansible playbooks
 
 ## The LED Bar
 
-<img src="../../_resources/08923074c40cb1c7796d6905cc368bf9.png" alt="08923074c40cb1c7796d6905cc368bf9.png" width="466" height="390">
+<img src="static/08923074c40cb1c7796d6905cc368bf9.png" alt="08923074c40cb1c7796d6905cc368bf9.png" width="466" height="390">
 
 ::: notes
 
@@ -157,7 +157,7 @@ An ESP32. In this case an ESP32-C3 Supermini
 
 ## The ON-AIR Light
 
-<img src="../../_resources/image-2025-06-18-131501.jpg" alt="image-2025-06-18-131501.jpg" width="765" height="430" class="jop-noMdConv"> 
+<img src="static/image-2025-06-18-131501.jpg" alt="image-2025-06-18-131501.jpg" width="765" height="430" class="jop-noMdConv"> 
 
 ::: notes
 
@@ -175,7 +175,7 @@ Controlled with Home Assistant and  ESPHome.
 
 # Until...
 
-<img src="../../_resources/image-2025-12-28-202622.png" alt="image-2025-12-28-202622.png" width="358" height="548" class="jop-noMdConv">
+<img src="static/image-2025-12-28-202622.png" alt="image-2025-12-28-202622.png" width="358" height="548" class="jop-noMdConv">
 
 ::: notes
 
